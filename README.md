@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/AlexanderC04/qr-code-component.git)
+- Live Site URL: (https://alexanderc04.github.io/qr-code-component/)
 
 ## My process
 
